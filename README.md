@@ -41,6 +41,9 @@ mvn spring-boot:run
 ## API Endpoints
 
 GET /students
+
 POST /students
+
 PUT /students/{id}
+
 DELETE /students/{id}
